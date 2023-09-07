@@ -16,3 +16,4 @@ Werkzeug==2.2.3
 zipp==3.8.1
 gevent
 gunicorn
+eventlet
